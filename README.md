@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Map1eUM
 - 👀 I’m interested in stem
-- 🌱 I’m currently learning c primer plus
+- 🌱 I’m currently dealing with Finals
 - 💞️ I’m looking to collaborate on telegram bots
 - 📫 How to reach me : Email: chenr5@myumanitoba.ca
 
