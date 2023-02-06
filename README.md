@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Map1eUM
-- 👀 I’m interested in stem
+- 👀 I’m interested in proof theory
 - 🌱 I’m currently on combinatorics research
-- 💞️ I’m looking to collaborate on telegram bots
+- 💞️ I’m looking to create a project
 - 📫 How to reach me : Email: rc@cs4u.top
 
 <!---
