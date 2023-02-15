@@ -2,7 +2,7 @@
 - 👀 I’m interested in proof theory
 - 🌱 I’m currently on way to my CS bachelor degree
 - 💞️ I’m looking to create a project
-- 📫 How to reach me : Email: rc@cs4u.top
+- 📫 How to reach me : Email: rc07@student.ubc.ca
 
 <!---
 Map1eUM/Map1eUM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
