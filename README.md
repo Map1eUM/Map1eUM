@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Map1eUM
 - 👀 I’m interested in proof theory
 - 🌱 I’m currently on way to my CS bachelor degree
-- 💞️ I’m looking to create a project
+- 💞️ I’m implementing my projects
 - 📫 How to reach me : Email: rc07@student.ubc.ca
 
 <!---
