@@ -1,4 +1,3 @@
-- 👋 Hi, I’m CloudyMap1e
 - 🌱 I’m currently on way to my CS bachelor degree
 - 💞️ I’m implementing my interesting projects focus on ML area.
 - 📫 How to reach me : Email: rc07@student.ubc.ca
